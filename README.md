@@ -1,2 +1,3 @@
-# puppy-eyes
-Demo Repo
+# Puppy Eyes
+
+This is for a demo.
